@@ -1,6 +1,6 @@
 {
-  "name": "iview-admin",
-  "version": "1.2.1",
+  "name": "odin-web-admin",
+  "version": "1.0.0",
   "description": "a management bases on iview",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/iview/iview-admin.git"
+    "url": "https://github.com/litiebiao2012/odin-web-admin"
   },
   "author": "",
   "license": "MIT",
